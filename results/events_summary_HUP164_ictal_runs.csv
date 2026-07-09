@@ -1,0 +1,7 @@
+run,onset,duration,trial_type,value,sample
+run-01,120.0,0.0,sz onset,2,122880
+run-01,185.999023,0.0,sz offset,1,190463
+run-02,120.0,0.0,sz onset,2,122880
+run-02,184.999023,0.0,sz offset,1,189439
+run-03,120.0,0.0,sz onset,2,122880
+run-03,202.999023,0.0,sz offset,1,207871

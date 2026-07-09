@@ -1,0 +1,25 @@
+# Large raw data files - do not upload to GitHub
+*.edf
+*.EDF
+*.vhdr
+*.eeg
+*.fif
+*.set
+*.mat
+
+# Python/Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+.venv/
+env/
+
+# Local outputs
+models/
+outputs/
+figures/
+
+# OS files
+.DS_Store
+Thumbs.db

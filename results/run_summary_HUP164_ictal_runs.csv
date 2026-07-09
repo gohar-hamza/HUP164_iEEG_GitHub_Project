@@ -1,0 +1,4 @@
+run,edf_file,n_channels_edf,sfreq,recording_duration_sec,seizure_onset_sec,seizure_offset_sec,seizure_duration_sec,time_before_seizure_sec,time_after_seizure_sec,n_bad_channels,n_soz_channels
+run-01,sub-HUP164_ses-presurgery_task-ictal_acq-seeg_...,180,1024.0,245.999023,120.0,185.999023,65.999023,120.0,60.0,4,9
+run-02,sub-HUP164_ses-presurgery_task-ictal_acq-seeg_...,180,1024.0,244.999023,120.0,184.999023,64.999023,120.0,60.0,4,9
+run-03,sub-HUP164_ses-presurgery_task-ictal_acq-seeg_...,180,1024.0,262.999023,120.0,202.999023,82.999023,120.0,60.0,4,9

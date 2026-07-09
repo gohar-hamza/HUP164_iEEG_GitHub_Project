@@ -1,0 +1,11 @@
+topic,what_was_learned
+Dataset structure,"HUP data follows BIDS-style organization with subject folders, presurgery session folders, and iEEG files."
+EDF file,The EDF file contains the actual intracranial EEG time-series signals.
+channels.tsv,"The channel file contains electrode names, channel status, bad channels, sampling frequency, and clinical labels such as SOZ or resect."
+events.tsv,The event file tells where seizure onset and offset occur in seconds and samples.
+SOZ,SOZ means seizure onset zone: channels clinically identified as the place where seizures begin.
+Bad channels,Bad channels were removed before analysis because they may contain noise or non-useful signals.
+Feature extraction,"Raw iEEG signals were converted into numerical features such as RMS, peak-to-peak amplitude, line length, and band power."
+Frequency bands,"Delta, theta, alpha, beta, gamma, and high-gamma power summarize how much signal energy exists in different frequency ranges."
+Run comparison,"All three ictal runs were aligned around seizure onset to compare preictal, ictal, and postictal behavior fairly."
+Key observation,"Gamma and high-gamma power increased in SOZ channels after seizure onset, especially in run-01 and run-02."

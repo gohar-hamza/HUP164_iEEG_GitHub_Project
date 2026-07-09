@@ -1,0 +1,6 @@
+channel,is_soz,rms_uv,peak_to_peak_uv,std_uv,line_length_uv,delta_power,theta_power,alpha_power,beta_power,gamma_power,high_gamma_power,start_sec,end_sec,run,region,region_description
+LA1,True,82.772193,631.723507,82.772193,2.905172,2022.696911,702.173007,133.518105,26.81085,18.751726,0.783608,0.0,60.0,run-01,early_before,Earlier pre-seizure baseline
+LA10,False,147.126653,1579.308766,147.126653,2.312261,7824.87252,1240.28635,313.082166,171.260198,24.600471,1.577159,0.0,60.0,run-01,early_before,Earlier pre-seizure baseline
+LA11,False,89.817806,860.608835,89.817806,1.973671,3163.427619,718.984834,188.816706,71.215852,15.288302,1.189199,0.0,60.0,run-01,early_before,Earlier pre-seizure baseline
+LA12,False,82.477318,773.63241,82.477318,2.839953,2342.346031,616.888145,136.631428,36.826266,19.471838,0.661379,0.0,60.0,run-01,early_before,Earlier pre-seizure baseline
+LA2,True,83.899671,657.663844,83.899671,2.780918,2139.720767,737.312172,142.125369,35.799882,18.715865,0.850114,0.0,60.0,run-01,early_before,Earlier pre-seizure baseline

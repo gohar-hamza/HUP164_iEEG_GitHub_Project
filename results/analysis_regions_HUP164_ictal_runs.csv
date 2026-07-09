@@ -1,0 +1,19 @@
+run,region,start_sec,end_sec,description
+run-01,early_before,0.0,60.0,Earlier pre-seizure baseline
+run-01,preictal_candidate,60.0,120.0,Last 60 seconds before seizure onset
+run-01,early_ictal,120.0,140.0,First 20 seconds after seizure onset
+run-01,middle_ictal,140.0,160.0,20 to 40 seconds after seizure onset
+run-01,late_ictal,160.0,185.999023,Later seizure period
+run-01,post_ictal,185.999023,245.999023,After seizure offset
+run-02,early_before,0.0,60.0,Earlier pre-seizure baseline
+run-02,preictal_candidate,60.0,120.0,Last 60 seconds before seizure onset
+run-02,early_ictal,120.0,140.0,First 20 seconds after seizure onset
+run-02,middle_ictal,140.0,160.0,20 to 40 seconds after seizure onset
+run-02,late_ictal,160.0,184.999023,Later seizure period
+run-02,post_ictal,184.999023,244.999023,After seizure offset
+run-03,early_before,0.0,60.0,Earlier pre-seizure baseline
+run-03,preictal_candidate,60.0,120.0,Last 60 seconds before seizure onset
+run-03,early_ictal,120.0,140.0,First 20 seconds after seizure onset
+run-03,middle_ictal,140.0,160.0,20 to 40 seconds after seizure onset
+run-03,late_ictal,160.0,202.999023,Later seizure period
+run-03,post_ictal,202.999023,262.999023,After seizure offset
