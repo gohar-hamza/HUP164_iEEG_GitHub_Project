@@ -7,7 +7,7 @@ The main aim is to understand how seizure onset zone channels behave before, dur
 ## Project status
 
 This is an exploratory research project. It is not a clinical diagnostic tool. The goal is to learn the dataset structure, understand iEEG signals, extract useful features, and prepare a foundation for later machine learning or graph-based seizure analysis.
-
+    
 ## Dataset
 
 The raw dataset is not included in this repository because the EDF files are large and should be downloaded from the official dataset source by the user.
